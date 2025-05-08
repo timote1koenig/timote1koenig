@@ -21,6 +21,10 @@ Love contributing to open source and building useful tools.
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=timote1koenig&hide=stars,issues&show=reviews,prs_merged&show_icons=true&theme=radical)
 ---
 
+## Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timote1koenig)
+---
+
 > 🔗 You can customize badge styles or add sections like "My Projects", "Blog Posts", or "Tech Stack".
 
 Let me know if you'd like this personalized with your details!

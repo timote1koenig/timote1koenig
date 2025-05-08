@@ -18,7 +18,7 @@ Love contributing to open source and building useful tools.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈 GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Timote Koenig GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timote Koenig&show_icons=true&theme=radical)
 
 ---
 

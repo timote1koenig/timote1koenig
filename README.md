@@ -12,19 +12,16 @@ Love contributing to open source and building useful tools.
 - ⚡ Fun fact: [Something interesting about you]
 
 ## 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- ⚙️ ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- 🧠 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- 🐍 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 📐 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 ## 📈 GitHub Stats
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=timote1koenig&hide=stars,issues&show=reviews,prs_merged&show_icons=true&theme=radical)
 ---
 
 ## Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timote1koenig)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timote1koenig&theme=radical)
 ---
-
-> 🔗 You can customize badge styles or add sections like "My Projects", "Blog Posts", or "Tech Stack".
-
-Let me know if you'd like this personalized with your details!

@@ -1,15 +1,4 @@
-# Hi there 👋, I'm [Your Name]
-
-## 🚀 About Me
-I'm a [Your Role] passionate about [what you're passionate about].  
-Currently working on **[Your Project or Learning Focus]**.  
-Love contributing to open source and building useful tools.
-
-- 🔭 I’m currently working on: [Project Name or Topic]
-- 🌱 I’m currently learning: [Tech you're learning]
-- 💬 Ask me about: [Topics you’re open to discuss]
-- 📫 How to reach me: [Email or social media]
-- ⚡ Fun fact: [Something interesting about you]
+# Hi there 👋, I'm Timote Koenig
 
 ## 🛠️ Languages and Tools
 

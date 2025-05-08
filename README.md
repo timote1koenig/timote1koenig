@@ -18,7 +18,7 @@ Love contributing to open source and building useful tools.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=timote1koenig&hide=stars&show=reviews)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=timote1koenig&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 
 > 🔗 You can customize badge styles or add sections like "My Projects", "Blog Posts", or "Tech Stack".

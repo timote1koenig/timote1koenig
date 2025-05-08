@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**timote1koenig/timote1koenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a [Your Role] passionate about [what you're passionate about].  
+Currently working on **[Your Project or Learning Focus]**.  
+Love contributing to open source and building useful tools.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: [Project Name or Topic]
+- 🌱 I’m currently learning: [Tech you're learning]
+- 💬 Ask me about: [Topics you’re open to discuss]
+- 📫 How to reach me: [Email or social media]
+- ⚡ Fun fact: [Something interesting about you]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📈 GitHub Stats
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+> 🔗 You can customize badge styles or add sections like "My Projects", "Blog Posts", or "Tech Stack".
+
+Let me know if you'd like this personalized with your details!
